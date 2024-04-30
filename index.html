@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>San Andreas Penal Codes</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+    form {
+      margin-top: 16px;
+    }
+    #results {
+      margin-top: 16px;
+    }
+  </style>
+</head>
+<body>
+  <h1>San Andreas Penal Codes</h1>
+  <table id="penal-codes-table">
+    <tr>
+      <th>Penal ID</th>
+      <th>Crime Description</th>
+      <th>Time</th>
+      <th>Fines</th>
+    </tr>
+    <!-- table rows will be generated dynamically -->
+  </table>
+  <form id="search-form">
+    <label for="penal-id">Penal ID:</label>
+    <input type="text" id="penal-id" name="penal-id">
+    <button type="submit">Search</button>
+  </form>
+  <div id="results">
+    <p id="total-fines"></p>
+    <p id="total-jail-time"></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

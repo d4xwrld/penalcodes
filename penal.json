@@ -1,0 +1,848 @@
+[
+  {
+    "Penal ID": 107,
+    "Crime Descriptions": "Manslaughter (F)",
+    "Time": 0,
+    "Fines": 0
+  },
+  {
+    "Penal ID": 111.3,
+    "Crime Descriptions": "Rape Minors (F)",
+    "Time": 100,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 112,
+    "Crime Descriptions": "Sexual Assault (M)",
+    "Time": 45,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 113,
+    "Crime Descriptions": "Sexual Battery (F)",
+    "Time": 70,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 117,
+    "Crime Descriptions": "Stalking (M)",
+    "Time": 30,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 118,
+    "Crime Descriptions": "Mutual Combat (M)",
+    "Time": 30,
+    "Fines": 500
+  },
+  {
+    "Penal ID": 119,
+    "Crime Descriptions": "Intimidation (M)",
+    "Time": 40,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 121.2,
+    "Crime Descriptions": "Violation of Civil Rights (I)",
+    "Time": 0,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 202,
+    "Crime Descriptions": "Trespassing On Government Property (M)",
+    "Time": 30,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 203,
+    "Crime Descriptions": "Burglary (F)",
+    "Time": 60,
+    "Fines": 1400
+  },
+  {
+    "Penal ID": 208,
+    "Crime Descriptions": "Embezzlement (F)",
+    "Time": 60,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 210,
+    "Crime Descriptions": "Forgery (F)",
+    "Time": 40,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 305,
+    "Crime Descriptions": "Perjury (F)",
+    "Time": 40,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 306,
+    "Crime Descriptions": "Evading (F)",
+    "Time": 30,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 307,
+    "Crime Descriptions": "Resisting Arrest (M)",
+    "Time": 50,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 308,
+    "Crime Descriptions": "Prison Break (F)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 402,
+    "Crime Descriptions": "Espionage (F)",
+    "Time": 120,
+    "Fines": 10000
+  },
+  {
+    "Penal ID": 404,
+    "Crime Descriptions": "Terrorism (F)",
+    "Time": 350,
+    "Fines": 50000
+  },
+  {
+    "Penal ID": 407,
+    "Crime Descriptions": "Impersonation of a Public Servant (F)",
+    "Time": 60,
+    "Fines": 5000
+  },
+  {
+    "Penal ID": 507,
+    "Crime Descriptions": "Use of a Wireless Device While Driving (I)",
+    "Time": 0,
+    "Fines": 200
+  },
+  {
+    "Penal ID": 508,
+    "Crime Descriptions": "Illegal U-Turn (I)",
+    "Time": 0,
+    "Fines": 100
+  },
+  {
+    "Penal ID": 512,
+    "Crime Descriptions": "Improper Parking (I)",
+    "Time": 0,
+    "Fines": 150
+  },
+  {
+    "Penal ID": 514,
+    "Crime Descriptions": "Operation of a Damaged Vehicle (I)",
+    "Time": 0,
+    "Fines": 200
+  },
+  {
+    "Penal ID": 601,
+    "Crime Descriptions": "Possession of a Controlled Substance (M)",
+    "Time": 30,
+    "Fines": 650
+  },
+  {
+    "Penal ID": 602,
+    "Crime Descriptions": "Possession with the Intent to sell (F)",
+    "Time": 60,
+    "Fines": 750
+  },
+  {
+    "Penal ID": 606,
+    "Crime Descriptions": "Public Intoxication (M)",
+    "Time": 30,
+    "Fines": 650
+  },
+  {
+    "Penal ID": 607.2,
+    "Crime Descriptions": "Furnishing Alcohol to an Underage Person (F)",
+    "Time": 60,
+    "Fines": 850
+  },
+  {
+    "Penal ID": 608,
+    "Crime Descriptions": "Possession of Drug Paraphernalia (M)",
+    "Time": 50,
+    "Fines": 750
+  },
+  {
+    "Penal ID": 609,
+    "Crime Descriptions": "Smuggling of Contraband (F)",
+    "Time": 30,
+    "Fines": 550
+  },
+  {
+    "Penal ID": 702,
+    "Crime Descriptions": "Unlawful Assembly (M)",
+    "Time": 20,
+    "Fines": 500
+  },
+  {
+    "Penal ID": 705.3,
+    "Crime Descriptions": "Unlawful Concealment of Identity (I)",
+    "Time": 0,
+    "Fines": 500
+  },
+  {
+    "Penal ID": 705.4,
+    "Crime Descriptions": "Unlawful Concealment of Identity (M)",
+    "Time": 20,
+    "Fines": 800
+  },
+  {
+    "Penal ID": 706.3,
+    "Crime Descriptions": "Misuse of an Emergency Hotline (I)",
+    "Time": 0,
+    "Fines": 100
+  },
+  {
+    "Penal ID": 706.4,
+    "Crime Descriptions": "Misuse of an Emergency Hotline (M)",
+    "Time": 15,
+    "Fines": 300
+  },
+  {
+    "Penal ID": 707,
+    "Crime Descriptions": "Indecent Exposure (M)",
+    "Time": 20,
+    "Fines": 800
+  },
+  {
+    "Penal ID": 708,
+    "Crime Descriptions": "Illicit Gambling Practices (M)",
+    "Time": 20,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 709,
+    "Crime Descriptions": "Illicit Liquor Practices (M)",
+    "Time": 20,
+    "Fines": 950
+  },
+  {
+    "Penal ID": 710,
+    "Crime Descriptions": "Reckless Endangerment (M)",
+    "Time": 20,
+    "Fines": 500
+  },
+  {
+    "Penal ID": 711,
+    "Crime Descriptions": "Riot (F)",
+    "Time": 60,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 712.4,
+    "Crime Descriptions": "Public Corruption (F)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 712.5,
+    "Crime Descriptions": "Public Corruption (F)",
+    "Time": 110,
+    "Fines": 20000
+  },
+  {
+    "Penal ID": 713,
+    "Crime Descriptions": "Piracy (F)",
+    "Time": 90,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 714,
+    "Crime Descriptions": "Prostitution (M)",
+    "Time": 30,
+    "Fines": 500
+  },
+  {
+    "Penal ID": 715,
+    "Crime Descriptions": "Pimping",
+    "Time": 60,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 801,
+    "Crime Descriptions": "Brandishing a Firearm (M)",
+    "Time": 20,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 802,
+    "Crime Descriptions": "Discharging a Firearm in Public (M)",
+    "Time": 30,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 801.3,
+    "Crime Descriptions": "Unlicensed Possession of a Deadly Weapon",
+    "Time": 30,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 804,
+    "Crime Descriptions": "Possession of an Unlicensed Firearm (M)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 806,
+    "Crime Descriptions": "Firearm Theft (F)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 807,
+    "Crime Descriptions": "Firearm Possession with Intent to Distribute. (F)",
+    "Time": 60,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 808,
+    "Crime Descriptions": "Illegal Firearm Distribution (F)",
+    "Time": 60,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 516,
+    "Crime Descriptions": "Violating a Traffic Signal (I)",
+    "Time": 0,
+    "Fines": 250
+  },
+  {
+    "Penal ID": 517,
+    "Crime Descriptions": "Hit and Run (M)",
+    "Time": 40,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 518,
+    "Crime Descriptions": "Felony Hit and Run (F)",
+    "Time": 40,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 519,
+    "Crime Descriptions": "Unsafe Usage Of A Bicycle (I)",
+    "Time": 0,
+    "Fines": 100
+  },
+  {
+    "Penal ID": 520,
+    "Crime Descriptions": "Installation of a Nitrous System (I)",
+    "Time": 0,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 521,
+    "Crime Descriptions": "Super Dark Tint (I)",
+    "Time": 0,
+    "Fines": 950
+  },
+  {
+    "Penal ID": 522,
+    "Crime Descriptions": "Unsafe Usage of Hydraulics (I)",
+    "Time": 0,
+    "Fines": 950
+  },
+  {
+    "Penal ID": 523,
+    "Crime Descriptions": "Loud Exhaust (I)",
+    "Time": 0,
+    "Fines": 500
+  },
+  {
+    "Penal ID": 524,
+    "Crime Descriptions": "Installation of an Illegal Body-kit (I)",
+    "Time": 0,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 525,
+    "Crime Descriptions": "",
+    "Time": 0,
+    "Fines": 0
+  },
+  {
+    "Penal ID": 101.2,
+    "Crime Descriptions": "Assault (M)",
+    "Time": 45,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 101.3,
+    "Crime Descriptions": "Aggravated Assault (M)",
+    "Time": 50,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 102.4,
+    "Crime Descriptions": "Aggravated Assault with a Deadly Weapon (F)",
+    "Time": 60,
+    "Fines": 3000
+  },
+  {
+    "Penal ID": 103.3,
+    "Crime Descriptions": "Aggravated Battery (M)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 114,
+    "Crime Descriptions": "Robbery (F)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 104.4,
+    "Crime Descriptions": "Aggravated Battery with a Deadly Weapon (F)",
+    "Time": 70,
+    "Fines": 2500
+  },
+  {
+    "Penal ID": 105.3,
+    "Crime Descriptions": "Murder in the First Degree (F)",
+    "Time": 60,
+    "Fines": 2500
+  },
+  {
+    "Penal ID": 105.4,
+    "Crime Descriptions": "Murder in the Second Degree (F)",
+    "Time": 75,
+    "Fines": 2500
+  },
+  {
+    "Penal ID": 115,
+    "Crime Descriptions": "Armed Robbery (F)",
+    "Time": 100,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 116,
+    "Crime Descriptions": "Torture (F)",
+    "Time": 60,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 106.4,
+    "Crime Descriptions": "Attempted Murder in the Second Degree",
+    "Time": 75,
+    "Fines": 2500
+  },
+  {
+    "Penal ID": 106.3,
+    "Crime Descriptions": "Attempted Murder in the First Degree",
+    "Time": 60,
+    "Fines": 2500
+  },
+  {
+    "Penal ID": 107.3,
+    "Crime Descriptions": "Vehicular Manslaughter",
+    "Time": 40,
+    "Fines": 950
+  },
+  {
+    "Penal ID": 107.4,
+    "Crime Descriptions": "Voluntary Manslaughter",
+    "Time": 60,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 107.5,
+    "Crime Descriptions": "Involuntary Manslaughter",
+    "Time": 40,
+    "Fines": 950
+  },
+  {
+    "Penal ID": 108,
+    "Crime Descriptions": "False Imprisonment (M)",
+    "Time": 50,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 109,
+    "Crime Descriptions": "Kidnapping (F)",
+    "Time": 70,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 110,
+    "Crime Descriptions": "Human Trafficking (F)",
+    "Time": 50,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 111,
+    "Crime Descriptions": "Rape (F)",
+    "Time": 90,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 112.3,
+    "Crime Descriptions": "Sexual Assault Minors (M)",
+    "Time": 60,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 113.2,
+    "Crime Descriptions": "Sexual Battery Minors (F)",
+    "Time": 85,
+    "Fines": 1650
+  },
+  {
+    "Penal ID": 206,
+    "Crime Descriptions": "Grand Theft (F)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 120.1,
+    "Crime Descriptions": "Identity Theft (M)",
+    "Time": 40,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 120.2,
+    "Crime Descriptions": "Identity Theft (M)",
+    "Time": 70,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 121.3,
+    "Crime Descriptions": "Violation of Civil Rights (M)",
+    "Time": 30,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 102.3,
+    "Crime Descriptions": "Assault with a Deadly Weapon (F)",
+    "Time": 55,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 209,
+    "Crime Descriptions": "Fraud (F)",
+    "Time": 45,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 103.2,
+    "Crime Descriptions": "Battery (M)",
+    "Time": 30,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 104.3,
+    "Crime Descriptions": "Battery with a Deadly Weapon (F)",
+    "Time": 65,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 201,
+    "Crime Descriptions": "Trespassing (M)",
+    "Time": 30,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 204.1,
+    "Crime Descriptions": "Arson First-Degree (F)",
+    "Time": 60,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 204.2,
+    "Crime Descriptions": "Arson Second-Degree (F)",
+    "Time": 60,
+    "Fines": 900
+  },
+  {
+    "Penal ID": 205.1,
+    "Crime Descriptions": "Petty Theft (M)",
+    "Time": 30,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 205.2,
+    "Crime Descriptions": "Petty Theft (M)",
+    "Time": 0,
+    "Fines": 250
+  },
+  {
+    "Penal ID": 207.1,
+    "Crime Descriptions": "Vandalism First-Degree (M)",
+    "Time": 40,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 207.2,
+    "Crime Descriptions": "Vandalism Second-Degree (M)",
+    "Time": 30,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 211,
+    "Crime Descriptions": "Extortion (F)",
+    "Time": 60,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 213,
+    "Crime Descriptions": "Receiving Stolen Property (M)",
+    "Time": 30,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 214.4,
+    "Crime Descriptions": "Cybercrime (I)",
+    "Time": 0,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 214.5,
+    "Crime Descriptions": "Cybercrime (M)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 214.6,
+    "Crime Descriptions": "Cybercrime (M)",
+    "Time": 70,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 214.7,
+    "Crime Descriptions": "Cybercrime (F)",
+    "Time": 60,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 301,
+    "Crime Descriptions": "Obstruction of Justice (F)",
+    "Time": 60,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 302,
+    "Crime Descriptions": "Tampering with Evidence (F)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 303,
+    "Crime Descriptions": "Bribery of a Public Official (F)",
+    "Time": 70,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 304,
+    "Crime Descriptions": "Misconduct of Office (F)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 309,
+    "Crime Descriptions": "Unlawful Rescue (F)",
+    "Time": 50,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 310,
+    "Crime Descriptions": "Failure to Identify (M)",
+    "Time": 30,
+    "Fines": 500
+  },
+  {
+    "Penal ID": 311,
+    "Crime Descriptions": "Introduction Of Contraband (F)",
+    "Time": 60,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 401,
+    "Crime Descriptions": "Treason (F)",
+    "Time": 250,
+    "Fines": 10000
+  },
+  {
+    "Penal ID": 403,
+    "Crime Descriptions": "Sedition (F)",
+    "Time": 250,
+    "Fines": 25000
+  },
+  {
+    "Penal ID": 405,
+    "Crime Descriptions": "Terroristic Threats (F)",
+    "Time": 180,
+    "Fines": 25000
+  },
+  {
+    "Penal ID": 406,
+    "Crime Descriptions": "Contempt of Court (M)",
+    "Time": 50,
+    "Fines": 5000
+  },
+  {
+    "Penal ID": 408,
+    "Crime Descriptions": "Failure to Pay a Fine (M)",
+    "Time": 30,
+    "Fines": 0
+  },
+  {
+    "Penal ID": 501,
+    "Crime Descriptions": "Careless Driving (I)",
+    "Time": "",
+    "Fines": 200
+  },
+  {
+    "Penal ID": 502,
+    "Crime Descriptions": "Reckless Driving (I)",
+    "Time": 0,
+    "Fines": 650
+  },
+  {
+    "Penal ID": 502.4,
+    "Crime Descriptions": "Reckless Driving (M)",
+    "Time": 30,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 503,
+    "Crime Descriptions": "Driving Without a License (M)",
+    "Time": 30,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 504,
+    "Crime Descriptions": "Driving Without Headlights (I)",
+    "Time": 0,
+    "Fines": 400
+  },
+  {
+    "Penal ID": 505,
+    "Crime Descriptions": "Riding Without a Helmet (I)",
+    "Time": 0,
+    "Fines": 100
+  },
+  {
+    "Penal ID": 506,
+    "Crime Descriptions": "Driving Under Influence (M)",
+    "Time": 30,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 509,
+    "Crime Descriptions": "Failure to Yield (I)",
+    "Time": 0,
+    "Fines": 250
+  },
+  {
+    "Penal ID": "510.2A",
+    "Crime Descriptions": "Speeding (I)",
+    "Time": 0,
+    "Fines": 300
+  },
+  {
+    "Penal ID": "510.2B",
+    "Crime Descriptions": "Speeding (I)",
+    "Time": 0,
+    "Fines": 600
+  },
+  {
+    "Penal ID": "510.2C",
+    "Crime Descriptions": "Speeding (I)",
+    "Time": 0,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": "510.2D",
+    "Crime Descriptions": "Speeding (I)",
+    "Time": 0,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 511,
+    "Crime Descriptions": "Super-Speeding (I)",
+    "Time": 0,
+    "Fines": 2500
+  },
+  {
+    "Penal ID": 513,
+    "Crime Descriptions": "Street Racing (M)",
+    "Time": 30,
+    "Fines": 1500
+  },
+  {
+    "Penal ID": 515,
+    "Crime Descriptions": "Jaywalking (I)",
+    "Time": 0,
+    "Fines": 350
+  },
+  {
+    "Penal ID": 603,
+    "Crime Descriptions": "Possession of Marijuana (M)",
+    "Time": 20,
+    "Fines": 750
+  },
+  {
+    "Penal ID": 604.1,
+    "Crime Descriptions": "Manufacture of a Controlled Substance (F)",
+    "Time": 50,
+    "Fines": 950
+  },
+  {
+    "Penal ID": 604.2,
+    "Crime Descriptions": "Manufacture of a Controlled Substance (F)",
+    "Time": 40,
+    "Fines": 850
+  },
+  {
+    "Penal ID": 605,
+    "Crime Descriptions": "Underage Possession (I)",
+    "Time": 0,
+    "Fines": 550
+  },
+  {
+    "Penal ID": 607.1,
+    "Crime Descriptions": "Furnishing Alcohol to an Underage Person (M)",
+    "Time": 40,
+    "Fines": 450
+  },
+  {
+    "Penal ID": 701,
+    "Crime Descriptions": "Disorderly Conduct (M)",
+    "Time": 15,
+    "Fines": 800
+  },
+  {
+    "Penal ID": 703,
+    "Crime Descriptions": "Littering(I)",
+    "Time": 0,
+    "Fines": 100
+  },
+  {
+    "Penal ID": 704.2,
+    "Crime Descriptions": "Abuse of a Corpse (I)",
+    "Time": 0,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 704.3,
+    "Crime Descriptions": "Abuse of a Corpse (M)",
+    "Time": 30,
+    "Fines": 1000
+  },
+  {
+    "Penal ID": 803.2,
+    "Crime Descriptions": "Unlicensed Possession of a Deadly Weapon",
+    "Time": 20,
+    "Fines": 2000
+  },
+  {
+    "Penal ID": 805,
+    "Crime Descriptions": "Possession of an Illegal Firearm (F)",
+    "Time": 50,
+    "Fines": 1000
+  }
+]
