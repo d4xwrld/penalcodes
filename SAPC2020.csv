@@ -1,0 +1,142 @@
+Penal ID,Crime Descriptions,Time,Fines
+"107","Manslaughter (F)",0,0
+"111.3","Rape Minors (F)",100,2000
+"112","Sexual Assault (M)",45,1000
+"113","Sexual Battery (F)",70,2000
+"117","Stalking (M)",30,1000
+"118","Mutual Combat (M)",30,500
+"119","Intimidation (M)",40,1000
+"121.2","Violation of Civil Rights (I)",0,1000
+"202","Trespassing On Government Property (M)",30,2000
+"203","Burglary (F)",60,1400
+"208","Embezzlement (F)",60,1000
+"210","Forgery (F)",40,1500
+"305","Perjury (F)",40,1500
+"306","Evading (F)",30,1500
+"307","Resisting Arrest (M)",50,1000
+"308","Prison Break (F)",60,2000
+"402","Espionage (F)",120,10000
+"404","Terrorism (F)",350,50000
+"407","Impersonation of a Public Servant (F)",60,5000
+"507","Use of a Wireless Device While Driving (I)",0,200
+"508","Illegal U-Turn (I)",0,100
+"512","Improper Parking (I)",0,150
+"514","Operation of a Damaged Vehicle (I)",0,200
+"601","Possession of a Controlled Substance (M)",30,650
+"602","Possession with the Intent to sell (F)",60,750
+"606","Public Intoxication (M)",30,650
+"607.2","Furnishing Alcohol to an Underage Person (F)",60,850
+"608","Possession of Drug Paraphernalia (M)",50,750
+"609","Smuggling of Contraband (F)",30,550
+"702","Unlawful Assembly (M)",20,500
+"705.3","Unlawful Concealment of Identity (I)",0,500
+"705.4","Unlawful Concealment of Identity (M)",20,800
+"706.3","Misuse of an Emergency Hotline (I)",0,100
+"706.4","Misuse of an Emergency Hotline (M)",15,300
+"707","Indecent Exposure (M)",20,800
+"708","Illicit Gambling Practices (M)",20,1000
+"709"," Illicit Liquor Practices (M)",20,950
+"710","Reckless Endangerment (M)",20,500
+"711","Riot (F)",60,1500
+"712.4","Public Corruption (F)",60,2000
+"712.5","Public Corruption (F)",110,20000
+"713","Piracy (F)",90,1000
+"714","Prostitution (M)",30,500
+"715"," Pimping",60,1000
+"801","Brandishing a Firearm (M)",20,1000
+"802","Discharging a Firearm in Public (M)",30,2000
+"801.3","Unlicensed Possession of a Deadly Weapon",30,1000
+"804","Possession of an Unlicensed Firearm (M)",60,2000
+"806","Firearm Theft (F)",60,2000
+"807","Firearm Possession with Intent to Distribute. (F)",60,1000
+"808","Illegal Firearm Distribution (F)",60,1500
+"516","Violating a Traffic Signal (I)",0,250
+"517","Hit and Run (M)",40,2000
+"518","Felony Hit and Run (F)",40,1500
+"519","Unsafe Usage Of A Bicycle (I)",0,100
+"520","Installation of a Nitrous System (I)",0,1000
+"521","Super Dark Tint (I)",0,950
+"522","Unsafe Usage of Hydraulics (I)",0,950
+"523","Loud Exhaust (I)",0,500
+"524","Installation of an Illegal Body-kit (I)",0,1500
+"525",,0,0
+"101.2","Assault (M)",45,1000
+"101.3","Aggravated Assault (M)",50,2000
+"102.4","Aggravated Assault with a Deadly Weapon (F)",60,3000
+"103.3","Aggravated Battery (M)",60,2000
+"114","Robbery (F)",60,2000
+"104.4","Aggravated Battery with a Deadly Weapon (F)",70,2500
+"105.3","Murder in the First Degree (F)",60,2500
+"105.4","Murder in the Second Degree (F)",75,2500
+"115","Armed Robbery (F)",100,2000
+"116","Torture (F)",60,1500
+"106.4","Attempted Murder in the Second Degree",75,2500
+"106.3","Attempted Murder in the First Degree",60,2500
+"107.3","Vehicular Manslaughter",40,950
+"107.4","Voluntary Manslaughter",60,1500
+"107.5","Involuntary Manslaughter",40,950
+"108","False Imprisonment (M)",50,1000
+"109","Kidnapping (F)",70,2000
+"110","Human Trafficking (F)",50,1500
+"111","Rape (F)",90,2000
+"112.3","Sexual Assault Minors (M)",60,1000
+"113.2","Sexual Battery Minors (F)",85,1650
+"206","Grand Theft (F)",60,2000
+"120.1","Identity Theft (M)",40,1500
+"120.2","Identity Theft (M)",70,2000
+"121.3","Violation of Civil Rights (M)",30,1500
+"102.3","Assault with a Deadly Weapon (F)",55,2000
+"209","Fraud (F)",45,2000
+"103.2","Battery (M)",30,1500
+"104.3","Battery with a Deadly Weapon (F)",65,2000
+"201","Trespassing (M)",30,1000
+"204.1","Arson First-Degree (F)",60,1000
+"204.2","Arson Second-Degree (F)",60,900
+"205.1","Petty Theft (M)",30,1000
+"205.2","Petty Theft (M)",0,250
+"207.1","Vandalism First-Degree (M)",40,2000
+"207.2","Vandalism Second-Degree (M)",30,1000
+"211","Extortion (F)",60,1000
+"213","Receiving Stolen Property (M)",30,1000
+"214.4","Cybercrime (I)",0,1500
+"214.5","Cybercrime (M)",60,2000
+"214.6","Cybercrime (M)",70,2000
+"214.7","Cybercrime (F)",60,1500
+"301","Obstruction of Justice (F)",60,1000
+"302","Tampering with Evidence (F)",60,2000
+"303","Bribery of a Public Official (F)",70,2000
+"304","Misconduct of Office (F)",60,2000
+"309","Unlawful Rescue (F)",50,2000
+"310","Failure to Identify (M)",30,500
+"311","Introduction Of Contraband (F)",60,2000
+"401"," Treason (F)",250,10000
+"403","Sedition (F)",250,25000
+"405","Terroristic Threats (F)",180,25000
+"406","Contempt of Court (M)",50,5000
+"408"," Failure to Pay a Fine (M)",30,0
+"501","Careless Driving (I)",,200
+"502","Reckless Driving (I)",0,650
+"502.4","Reckless Driving (M)",30,1500
+"503","Driving Without a License (M)",30,1000
+"504","Driving Without Headlights (I)",0,400
+"505","Riding Without a Helmet (I)",0,100
+"506","Driving Under Influence (M)",30,1000
+"509","Failure to Yield (I)",0,250
+"510.2A","Speeding (I)",0,300
+"510.2B","Speeding (I)",0,600
+"510.2C","Speeding (I)",0,1000
+"510.2D","Speeding (I)",0,1500
+"511","Super-Speeding (I)",0,2500
+"513","Street Racing (M)",30,1500
+"515","Jaywalking (I)",0,350
+"603","Possession of Marijuana (M)",20,750
+"604.1","Manufacture of a Controlled Substance (F)",50,950
+"604.2","Manufacture of a Controlled Substance (F)",40,850
+"605","Underage Possession (I)",0,550
+"607.1","Furnishing Alcohol to an Underage Person (M)",40,450
+"701","Disorderly Conduct (M)",15,800
+"703","Littering(I)",0,100
+"704.2","Abuse of a Corpse (I)",0,1000
+"704.3","Abuse of a Corpse (M)",30,1000
+"803.2","Unlicensed Possession of a Deadly Weapon",20,2000
+"805","Possession of an Illegal Firearm (F)",50,1000
