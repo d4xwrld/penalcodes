@@ -30,7 +30,7 @@ function generateTableRows(data) {
       <td>${item["Crime Descriptions"]}</td>
       <td>${item["Time"]}</td>
       <td>${item["Fines"]}</td>
-      <td><button onclick="addToCart(this)">Add</button></td>
+      <td><button class="btn btn-success" onclick="addToCart(this)">Add</button></td>
     `;
     penalCodesTable.appendChild(row);
   });
@@ -66,11 +66,12 @@ function addToCart(button) {
     cart.push(item);
   }
   updateCartDiv();
+  updateResultsDiv();
 }
 
 
 function updateCartDiv() {
-    cartDiv.innerHTML = cart.map(item => `<p>${item["Penal ID"]} - ${item["Crime Descriptions"]} - ${item["Time"]} days - $${item["Fines"]}</p>`).join('');
+    cartDiv.innerHTML = cart.map(item => `<p class="text-warning">${item["Penal ID"]} - ${item["Crime Descriptions"]} - ${item["Time"]} days - $${item["Fines"]}</p>`).join('');
 }
 function updateResultsDiv(filteredData) {
     const addedItems = filteredData.filter(item => item.isAdded === false);
@@ -79,7 +80,7 @@ function updateResultsDiv(filteredData) {
     const addedJailTime = addedItems.reduce((sum, item) => sum + parseInt(item["Time"]), 0);
     const totalJailTime = cart.reduce((sum, item) => sum + parseInt(item["Time"]), 0);
     resultsDiv.innerHTML = `
-      <p>Total Fines: $${totalFines}</p>
-      <p>Total Jail Time: ${totalJailTime} days</p>
+      <p class="text-danger">Total Fines: $${totalFines}</p>
+      <p class="text-danger">Total Jail Time: ${totalJailTime} days</p>
     `;
   }
